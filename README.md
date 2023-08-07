@@ -2,7 +2,7 @@
 
 # Pretrained Model and Result
 Download and unzip save_dir in the root of TPC-NAS from the link below:
-https://drive.google.com/file/d/1YCeSXHhu3YGfbRj84iXTLXlZkAj-LEL1/view?usp=sharing
+https://drive.google.com/file/d/1rQWEyMCOww8UCqTOrszrlzW4R5k5XM7k/view?usp=sharing
 
 Change the data path in DataLoader
 
